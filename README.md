@@ -105,6 +105,7 @@ Agents that write, edit, test, and ship code — terminal CLIs, IDE extensions, 
 - [Crush](https://github.com/charmbracelet/crush) `OSS` — Charmbracelet's TUI coding agent (Go) with multi-model configs.
 - [Amp](https://ampcode.com) — Subagent-based coding agent with issue integration; spun off from Sourcegraph as independent Amp Inc. (Dec 2025).
 - [OpenClaw](https://github.com/openclaw/openclaw) `OSS` — Self-hosted, always-on assistant harness; chat-reachable and proactive, orchestrates CLI agents.
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) `OSS` — Browser grid of live Claude Code / Codex sessions; one real PTY and git worktree per cell, tmux-backed so a disconnect does not kill the run.
 
 ## Computer-Use / GUI Agents
 

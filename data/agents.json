@@ -726,6 +726,18 @@
     "description": "Self-hosted, always-on assistant harness; chat-reachable and proactive, orchestrates CLI agents."
   },
   {
+    "id": "mulmoterminal",
+    "name": "MulmoTerminal",
+    "url": "https://github.com/receptron/mulmoterminal",
+    "github": "receptron/mulmoterminal",
+    "license": "MIT",
+    "status": "active",
+    "categories": [
+      "coding"
+    ],
+    "description": "Browser grid of live Claude Code / Codex sessions; one real PTY and git worktree per cell, tmux-backed so a disconnect does not kill the run."
+  },
+  {
     "id": "anthropic-computer-use",
     "name": "Anthropic Computer Use",
     "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool",
